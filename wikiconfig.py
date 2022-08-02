@@ -65,7 +65,7 @@ class Config(multiconfig.DefaultConfig):
     # Wiki identity ----------------------------------------------------
 
     # Site name, used by default for wiki name-logo [Unicode]
-    sitename = u'Untitled Wiki'
+    sitename = u'Thaler`s Doku'
 
     # Wiki logo. You can use an image, text or both. [Unicode]
     # For no logo or text, use '' - the default is to show the sitename.
